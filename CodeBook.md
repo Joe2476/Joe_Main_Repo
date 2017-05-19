@@ -1,7 +1,7 @@
 # Joe_Main_Repo
-x_data <- combines x data
-y_data <- combines y data
-subject_data <- combines subject data
+x_data <- combines x data,
+y_data <- combines y data,
+subject_data <- combines subject data,
 
 mean_and_std_feature <- finds mean and standard D for data and puts them in a table
 names(x_data) <- matches name with the data 
